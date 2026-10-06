@@ -99,12 +99,12 @@ The supplied data was already clean, so the focus was on **validation** and corr
 A calculated column **Order Value = Quantity × Unit Price** was created at the order-item level and aggregated to compute revenue.
 
 <p align="center">
-  <img src="images/Power%20Query1.png" width="48%" alt="Power Query 1">
-  <img src="images/Power%20Query%202.png" width="48%" alt="Power Query 2">
+<img width="1917" height="1096" alt="Power Query1" src="https://github.com/user-attachments/assets/4feab404-235b-4d52-ba13-e3446efd238e" />
+<img width="1911" height="1066" alt="Power Query 2" src="https://github.com/user-attachments/assets/63b89f53-3e30-44a4-8ed9-c9cad35f5630" />
 </p>
 <p align="center">
-  <img src="images/Power%20Query%203.png" width="48%" alt="Power Query 3">
-  <img src="images/Power%20Query%204.png" width="48%" alt="Power Query 4">
+<img width="1917" height="1066" alt="Power Query 3" src="https://github.com/user-attachments/assets/8f43046d-015e-4666-a870-e7f76367a60c" />
+<img width="1917" height="1062" alt="Power Query 4" src="https://github.com/user-attachments/assets/cbbcce6f-826f-430a-b39d-9d54bdaf02ba" />
 </p>
 
 ---
