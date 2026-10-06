@@ -1,22 +1,39 @@
-# 🛒 E-Commerce Sales Analytics | Power BI Dashboard
-
-<p align="center">
-  <strong>Interactive E-Commerce Sales Analysis using Microsoft Power BI</strong>
-</p>
-
-<p align="center">
-  <img src="./Dashboard%201.png" alt="E-Commerce Power BI Dashboard" width="900">
-</p>
-
----
+# 🛒 E-Commerce Sales, Customer & Product Analytics Using Power BI
 
 ## 📌 Project Overview
 
-This project is an **E-Commerce Sales Analytics Dashboard** developed using **Microsoft Power BI**.
+E-Commerce Sales Analytics is a **Business Intelligence project developed using Microsoft Power BI** to analyze sales performance, customer behavior, product contribution, order outcomes, payment methods, and customer retention.
 
-The objective of this project is to transform raw e-commerce data into meaningful business insights through **data cleaning, transformation, data modeling, DAX-based analysis, and interactive visualizations**.
+The project combines multiple related datasets and transforms them into an interactive Power BI report containing **six analytical dashboards**:
 
-The dashboard provides a structured view of e-commerce performance and helps users explore sales trends, product performance, customer-related insights, and other important business metrics.
+* Sales Performance
+* Customer Analytics
+* Product & Category
+* Orders & Payment
+* Customer Value & Retention
+* Executive Summary
+
+The project follows a practical Business Intelligence workflow covering **data understanding, data validation, Power Query preparation, data modeling, DAX development, KPI creation, dashboard development, business insights, and recommendations**.
+
+The ultimate goal is to convert structured e-commerce data into meaningful business insights that can support management-level decision making.
+
+---
+
+## 🎯 Business Problem
+
+E-commerce businesses generate large volumes of information related to customers, products, orders, payments, and purchasing behavior.
+
+Without proper analysis, it can be difficult to understand:
+
+* Overall revenue and order performance
+* Which categories and products contribute most to revenue
+* Customer acquisition and repeat purchasing behavior
+* Order delivery and cancellation patterns
+* Payment-method preferences
+* Customer value and purchasing frequency
+* Product stock and sales performance
+
+This project addresses these challenges by developing an interactive Power BI reporting solution that brings these business areas together in a single analytical environment.
 
 ---
 
@@ -24,49 +41,39 @@ The dashboard provides a structured view of e-commerce performance and helps use
 
 The main objectives of this project are:
 
-- Analyze e-commerce sales performance
-- Identify important sales trends and patterns
-- Understand product and business performance
-- Create meaningful Key Performance Indicators (KPIs)
-- Transform and clean raw data using Power Query
-- Build a structured relational data model
-- Create interactive Power BI dashboards
-- Present complex business data in an easy-to-understand format
-- Demonstrate an end-to-end Power BI data analytics workflow
+* Analyze e-commerce sales performance
+* Track revenue, orders, quantity sold, and average order value
+* Understand customer acquisition and purchasing behavior
+* Identify new and repeat customers
+* Analyze product and category performance
+* Examine order status, delivery, and cancellation patterns
+* Analyze payment-method usage and contribution
+* Identify high-value customers
+* Analyze customer purchasing frequency and tenure
+* Monitor product stock status
+* Create interactive business dashboards
+* Generate actionable business insights and recommendations
 
 ---
 
-## 🛠️ Tools & Technologies
-
-| Technology | Purpose |
-|---|---|
-| **Microsoft Power BI** | Dashboard development and visualization |
-| **Power Query** | Data cleaning and transformation |
-| **DAX** | Measures and analytical calculations |
-| **Data Modeling** | Building relationships between data tables |
-| **Microsoft Word** | Project documentation |
-
----
-
-## 🔄 Project Workflow
-
-The project follows an end-to-end data analytics workflow:
+# 📂 Project Structure
 
 ```text
-Raw E-Commerce Data
-        ↓
-Data Cleaning
-        ↓
-Data Transformation
-        ↓
-Power Query
-        ↓
-Data Modeling
-        ↓
-DAX Calculations
-        ↓
-Interactive Visualizations
-        ↓
-Power BI Dashboard
-        ↓
-Business Insights
+E-Commerce-Power-BI/
+│
+├── E Commerce Power BI Website.pbix
+├── E_Commerce_Power_BI_Doc.docx
+│
+├── Dashboard 1.png
+├── Dashboard 2.png
+├── Dashboard 3.png
+├── Dashboard 4.png
+├── Dashboard 5.png
+├── Dashboard 6.png
+│
+├── Model View.png
+│
+├── Power Query1.png
+├── Power Query 2.png
+├── Power Query 3.png
+└── Power Query 4.png
